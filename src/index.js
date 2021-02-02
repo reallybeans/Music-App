@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+import './index.css'; 
+import App from "C:/Users/Bean/Documents/ReactJS_demo/music-app/src/Components/App/App";
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <React.StrictMode>
+  <React.StrictMode> 
     <App />
   </React.StrictMode>,
   document.getElementById('root')
